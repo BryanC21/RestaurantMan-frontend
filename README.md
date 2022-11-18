@@ -4,7 +4,7 @@ RestaurantMan Frontend React Website
 University Name: http://www.sjsu.edu/  
 Course: Cloud Technologies http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html   
 Professor: Sanjay Garje https://www.linkedin.com/in/sanjaygarje/   
-Students: Bryan Caldera, Hongru Lin, Murali Monish
+Students: Bryan Caldera https://www.linkedin.com/in/bryan-caldera-50a97b187/ , Hongru Lin https://www.linkedin.com/in/hongrulin/ , Murali Monish https://www.linkedin.com/in/murali-monish/ 
 
 Project Introduction 
 ===================
