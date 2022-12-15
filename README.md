@@ -1,6 +1,8 @@
 RestaurantMan Frontend React Website 
 =========================
 
+Running at: http://restaurantman.link/
+
 University Name: http://www.sjsu.edu/  
 Course: Cloud Technologies http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html   
 Professor: Sanjay Garje https://www.linkedin.com/in/sanjaygarje/   
