@@ -1,7 +1,7 @@
 RestaurantMan Frontend React Website 
 =========================
 
-Running at: http://restaurantman.link/
+Running at: http://restaurantman.link/  
 Backend code: https://github.com/BryanC21/RestaurantMan-backend
 
 University Name: http://www.sjsu.edu/  
