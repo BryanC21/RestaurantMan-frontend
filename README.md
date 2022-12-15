@@ -1,4 +1,4 @@
-RestaurantMan Frontend React Website
+RestaurantMan Frontend React Website 
 =========================
 
 University Name: http://www.sjsu.edu/  
