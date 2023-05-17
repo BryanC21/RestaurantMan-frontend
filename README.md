@@ -5,15 +5,10 @@ RestaurantMan Frontend React Website
 
 My contributions: I was in charge of making the backend api. I designed a mySQL database to hold all app data, with AWS S3 for image hosting. I created a node.js api server using express.js. I also handled user authentication and authorization through JWT tokens. Set up AWS environment for these services: S3, EC2, Elastic Beanstalk, Elastic Load Balancer, CloudFront, AWS RDS, R53, IAM, CloudFormation, CodeStar.  
 
-University Name: http://www.sjsu.edu/  
-Course: Cloud Technologies http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html   
-Professor Sanjay Garje https://www.linkedin.com/in/sanjaygarje/   
-Students: Bryan Caldera https://www.linkedin.com/in/bryan-caldera-50a97b187/ , Hongru Lin https://www.linkedin.com/in/hongrulin/ , Murali Monish https://www.linkedin.com/in/murali-monish/ 
-
 Project Introduction
 ===================
 
-RestaurantMan is a website designed for restaurant management where, Customers can register a user account to place orders in-store or pick up. Restaurant owners can register and manage orders and tables, while storing all the data in the cloud for further analysis. This would be marketed as a SaaS (Software as a Service) program for brick and mortar restaurants looking for a more personalized in-house experience for its customers.  
+RestaurantMan is a website designed for restaurant management where customers can register a user account to place orders for in-store or pick up. Restaurant owners can register and manage orders and tables, while storing all the data in the cloud for further analysis. This would be marketed as a SaaS (Software as a Service) program for brick and mortar restaurants looking for a more personalized in-house experience for its customers.  
 
 Feature List
 ============
